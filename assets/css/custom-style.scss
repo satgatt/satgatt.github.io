@@ -1,0 +1,27 @@
+---
+---
+/* 1. 테마 원본 디자인을 안전하게 불러오기 */
+@import "jekyll-theme-chirpy";
+
+/* 2. 사이드바 배경 이미지 강제 주입 */
+#sidebar {
+  /* bg.jpg 자리에 본인이 assets에 올린 이미지 파일명 정확히 적어줘 */
+  background-image: url('/assets/my-cover.png') !important; 
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+}
+
+/* 배경 위에 어두운 필터 씌우기 */
+#sidebar::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background-color: rgba(0, 0, 0, 0.4) !important; 
+  z-index: -1;
+}
+
+/* 메뉴 글자랑 아이콘을 흰색으로 고정 */
+#sidebar a, #sidebar i, .site-title a, .site-subtitle {
+  color: #ffffff !important;
+}
