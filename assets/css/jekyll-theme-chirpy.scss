@@ -1,16 +1,18 @@
 ---
 ---
-@import 'main';
+/* 1. 테마의 원래 디자인(아이콘, 정렬 등)을 먼저 불러옵니다 */
+@import "jekyll-theme-chirpy";
 
+/* 2. 그 위에 배경 이미지랑 글자색만 덧칠합니다 */
 #sidebar {
-  /* 아래 /assets/bg.jpg 부분을 본인이 올린 파일명으로 꼭 수정하세요! */
-  background-image: url('/assets/my-cover.png') !important;
+  /* bg.jpg 자리에 본인이 assets에 올린 이미지 파일명을 정확히 적으세요 */
+  background-image: url('/assets/bg.jpg') !important; 
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
 }
 
-/* 배경 위에서 메뉴 글자가 잘 보이게 검은색 필터 씌우기 */
+/* 배경 위에서 글자가 잘 보이도록 어둡게 필터 */
 #sidebar::before {
   content: "";
   position: absolute;
@@ -19,7 +21,7 @@
   z-index: -1;
 }
 
-/* 메뉴 글자색을 흰색으로 고정 */
+/* 메뉴 글자랑 아이콘을 흰색으로 고정 */
 #sidebar a, #sidebar i, .site-title a, .site-subtitle {
   color: #ffffff !important;
 }
