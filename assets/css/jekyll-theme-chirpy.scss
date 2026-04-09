@@ -1,0 +1,25 @@
+---
+---
+@import 'main';
+
+#sidebar {
+  /* 아래 /assets/bg.jpg 부분을 본인이 올린 파일명으로 꼭 수정하세요! */
+  background-image: url('/assets/my-cover.png') !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+}
+
+/* 배경 위에서 메뉴 글자가 잘 보이게 검은색 필터 씌우기 */
+#sidebar::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background-color: rgba(0, 0, 0, 0.4) !important; 
+  z-index: -1;
+}
+
+/* 메뉴 글자색을 흰색으로 고정 */
+#sidebar a, #sidebar i, .site-title a, .site-subtitle {
+  color: #ffffff !important;
+}
