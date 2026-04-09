@@ -1,0 +1,17 @@
+---
+# 이 빈 대시 세 개가 없으면 깃허브가 이 파일을 무시합니다.
+---
+@import 'main';
+
+/* 강제 덮어쓰기 */
+:root {
+  --sidebar-bg: #FFDEAD !important;
+  --link-color: #8B4513 !important;
+  --btn-bg: #8B4513 !important;
+}
+
+/* 다크모드는 원본 유지 (위에 쓴 색상이 영향 안 주게 방어) */
+[data-theme="dark"] {
+  --sidebar-bg: #1e1e24 !important;
+  --link-color: #4da3ff !important;
+}
