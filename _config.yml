@@ -12,7 +12,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "satgatt's Security Lab" # the main title
+title: "satgatt's blog" # the main title
 
 tagline: "IT, 그 중 정보보안에 관련된 내용을 중점으로 기재하는 블로그입니다." # it will display as the subtitle
 
