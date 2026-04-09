@@ -78,7 +78,7 @@ cdn:
 # the avatar on sidebar, support local or CORS resources (왼쪽 프로필 이미지 경로)
 avatar: "/assets/my-avatar.jpg"
 
-social_preview_image: 
+social_preview_image: "/assets/my-avatar.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
