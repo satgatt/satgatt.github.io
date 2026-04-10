@@ -1,0 +1,12 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main{%- if jekyll.environment == 'production' -%}.bundle{%- endif -%}';
+
+/* 이 아래부터 원하는 커스텀 코드를 추가합니다 */
+
+/* 본문 텍스트 폰트 크기 조정 */
+.post-content p {
+  font-size: 0.9rem; /* 숫자를 더 줄이려면 0.9rem, 0.85rem 등으로 조절하세요 */
+}
