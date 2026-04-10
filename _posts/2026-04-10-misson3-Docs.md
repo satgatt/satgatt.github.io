@@ -62,13 +62,18 @@ tags:
 당장은 아무것도 모르지만  
 희망 직무는 취약점 진단, 사고 대응 부문이다.  
 
-각 회사의 공고의 내용은 후술하도록 하겠다.
+각 회사의 공고의 내용은 아래에 이어 작성하도록 하겠다.  
+
+
+
 
 ### 1 - 토스 Security Engineer 이벤트 분석/사고 대응
 
 https://toss.im/career/job-detail?job_id=7629373003&sub_position_id=7411370003&company=토스
 
 <img width="1350" height="863" alt="스크린샷 2026-04-10 오후 5 46 12" src="https://github.com/user-attachments/assets/44c595eb-1410-45cd-8c30-4af4d18aeabe" />
+
+
 
 
 ### 2 - 현대자동차 보안점검/분석
@@ -78,25 +83,91 @@ https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=26
 <img width="1131" height="866" alt="스크린샷 2026-04-10 오후 6 28 47" src="https://github.com/user-attachments/assets/262e59d2-1abb-4b24-b35e-962a26c057ed" />
 
 
-## 3 - SK쉴더스 보안관제, 취약점 분석
+
+
+### 3 - SK쉴더스 보안관제, 취약점 분석
 
 https://www.skshieldusapply.com/ko/o/209717
 
 <img width="1282" height="884" alt="스크린샷 2026-04-10 오후 6 35 16" src="https://github.com/user-attachments/assets/7a3a832a-274a-4f34-9ea7-b755465eab53" />
 
 
-## 4 - KT Alpha 모의해킹/취약점 분석
+
+
+### 4 - KT Alpha 모의해킹/취약점 분석
 
 https://recruit.kt.com/careers/241995
 
 <img width="895" height="790" alt="스크린샷 2026-04-10 오후 6 42 01" src="https://github.com/user-attachments/assets/4eb69be1-ed89-44af-9a97-18937fb4b996" />
 
 
-## 5 - NHN KCP 보안 취약점 진단 및 관리
+
+
+### 5 - NHN KCP 보안 취약점 진단 및 관리
 
 https://kcp.co.kr/career/employment
 
 <img width="1067" height="869" alt="스크린샷 2026-04-10 오후 6 45 50" src="https://github.com/user-attachments/assets/b5bdaebe-0b7f-41c4-a74c-e7903e9a22c3" />
+
+
+
+
+
+## 2-1. 공통 요구 사항 찾기
+
+주요 기업의 채용 공고를 가져오다보니,  
+경력직 채용 공고 투성이가 되어버렸다.  
+
+하지만 어찌되었든 회사 점프의 목적은  
+더 나은 회사로 이직하는 것이니,  
+이어 정리해보도록 하겠다.  
+
+
+먼저, 반복되어 나오는 사항들을 정리해보겠다.  
+1. IT 인프라에 대한 이해 기본기  
+2. 스크립트 언어 능력과 업무 자동화 역량  
+3. 클라우드 인프라 보안 경험  
+
+
+1번과 2번은 프로젝트 수준에서 쌓을 수 있는 경험이다.  
+하지만 3번같은 경우, 어찌되었든 실무 수준으로 가야 하는데,  
+저 전 단계에 사실상 "클라우드 인프라 보안" 공부가 요구된다.  
+
+따라서 내 커리어 패스 설계의 주요 능력치는 다음과 같겠다.  
+1. IT 인프라 이해
+2. 스크립트 언어 공부
+3. 자동화 경험 쌓기
+4. 클라우드 인프라 공부
+
+이런, 만만해 보이는게 하나 없다.
+
+미션에 '당장 해야 할 것' 하나 적기가 있는데.
+위 사항과 AI가 잠식해가는 현 업계 상황을 고려하여  
+하나를 꼽아보자면  
+
+역시나 '기본기 쌓기' 가 아닐까 싶다.
+
+AI가 만들어내는 할루시네이션에 속지 않고,  
+실무에서 당황하지 않을만한 응용력을 발휘하기 위해서는  
+IT 지식 전반에 걸쳐 기본 지식을 쌓는것이  
+그 무엇보다도 중요하다고 본다.  
+
+뭐, 어디까지나 말은 쉽지만 말이다.
+
+
+
+
+
+# 글을 마치며...
+
+
+역시 세상에는 쉬운게 하나 없다.  
+그래도 옛날보다는 지원하는 기업의 인재상을  
+편하게 찾을 수 있으니 그게 어디인가 싶다.  
+오늘도 내일도 결국 공부인 것 같다.  
+
+
+
 
 
 
