@@ -5,12 +5,6 @@ categories: [블로그/기술문서]
 tags:
 ---
 
----
-title: "보안 사고 사례 분석 1편 - SK텔레콤 유심 정보 유출 사고 (2025)"
-date: 2026-05-13
-categories: [security, incident]
-tags: [SKT, HSS, BPFDoor, IMSI, 침해사고, 통신보안]
----
 
 ## 사례 선정 이유
 
