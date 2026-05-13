@@ -1,5 +1,5 @@
 ---
-title: "Git 배우기:
+title: "Git 배우기:"
 date: 2026-04-29 22:00:00 +0900
 categories: [개발]
 tags:
