@@ -7,6 +7,10 @@ tags: []
 
 [Learn Git Branching](https://learngitbranching.js.org/?locale=ko) 사이트를 끝까지 풀고, 등장한 명령어를 정리한다.  
 
+
+<img width="913" height="425" alt="스크린샷 2026-05-13 193441" src="https://github.com/user-attachments/assets/2d8159e9-5c6b-4abc-9e93-3728246d7a3e" />
+<img width="913" height="885" alt="스크린샷 2026-05-13 193438" src="https://github.com/user-attachments/assets/637e6f52-4fb1-4583-b007-cf30e828224b" />
+
 ## 기본
 
 `git commit` — 새 커밋을 만든다.  
