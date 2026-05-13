@@ -1,8 +1,9 @@
 ---
 title: "Git 배우기"
-date: 2026-05-13
+A Survey of Account Security Interfaces"
+date: 2026-04-29 22:00:00 +0900
 categories: [개발]
-tags: []
+tags:
 ---
 
 [Learn Git Branching](https://learngitbranching.js.org/?locale=ko) 사이트를 끝까지 풀고, 등장한 명령어를 정리한다.  
