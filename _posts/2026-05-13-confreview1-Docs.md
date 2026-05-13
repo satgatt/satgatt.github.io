@@ -1,7 +1,7 @@
 ---
 title: "DEF CON 33 영상 리뷰 - Zero Trust, Total Bust"
 date: 2026-05-13
-categories: [security, conference, review]
+categories: [블로그/기술문서]
 tags: []
 ---
 
